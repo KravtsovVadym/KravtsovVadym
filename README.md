@@ -4,7 +4,7 @@
 -->
 
 My GitHub profile!  My name is Vadim.
-I'm a Python developer focused on continuous learning and growth.
+I'm a Python developer:
 
 ## Technologies & Tools
 
@@ -20,6 +20,6 @@ I'm a Python developer focused on continuous learning and growth.
 ###  Currently Learning
 - Advanced Python concepts 
 - Django web development
-
+- Odoo framework
 ---
 **Email:** vadymkravtcsov@gmail.com
