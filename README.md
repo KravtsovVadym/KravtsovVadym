@@ -1,10 +1,11 @@
 
 <!--
-**VadymCov/VadymCov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VadymCov/VadymCov** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 My GitHub profile!  My name is Vadim.
 I'm a Python developer:
+NOTE: All projects that I have in my repository are created exclusively for the purpose of mastering programming and various technologies.
 
 ## Technologies & Tools
 
