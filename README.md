@@ -2,10 +2,10 @@
 <!--
 **VadymCov/VadymCov** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-My GitHub profile!  My name is Vadim.
-I'm a Python developer:
-NOTE: All projects that I have in my repository are created exclusively for the purpose of mastering programming and various technologies.
+### 👋 Hi glad to see you ! 
+#### My GitHub profile!  My name is Vadym.
+#### I'm a Python developer:
+#### NOTE: All projects that I have in my repository are created exclusively for the purpose of mastering programming and various technologies.
 
 ## Technologies & Tools
 
@@ -37,7 +37,7 @@ NOTE: All projects that I have in my repository are created exclusively for the 
 
 ###  Currently Learning
 - Advanced Python concepts 
-- Django web development
-- Odoo framework
+- RAG (technologies)
+- Odoo (framework)
 ---
 **Email:** vadymkravtcsov@gmail.com
